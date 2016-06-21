@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0DE236D9C6D15C5476CFAEC5A07D295C25788FFB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F91D28A7E95E8F0399C74826E40B332B63E48E1C" : 0,
+    "0DE236D9C6D15C5476CFAEC5A07D295C25788FFB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CFB1540B-D871-4C5F-B67E-96386E4C82AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F91D28A7E95E8F0399C74826E40B332B63E48E1C" : "glfw\/",
+    "0DE236D9C6D15C5476CFAEC5A07D295C25788FFB" : "OpenGLRedBookDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenglRedBookExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenglRedBookExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NovoXiaolei\/OpenGLRedBookDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0DE236D9C6D15C5476CFAEC5A07D295C25788FFB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/glfw\/glfw.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F91D28A7E95E8F0399C74826E40B332B63E48E1C"
+    }
+  ]
+}
